@@ -2,7 +2,7 @@ public class Product {
     private Integer productId;
     private String productName;
     private Double price;
-    private String korhona;
+    private String korhona; 
     private String saqlashMuddati;
 
     public Product(String productName, Double price, String korhona, String saqlashMuddati) {
