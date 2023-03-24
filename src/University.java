@@ -1,6 +1,6 @@
 public class University {
     private Integer Id;
-    private String name;
+    private String name; 
     private String address;
     private String fakultet;
     private String duration;
