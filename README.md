@@ -20,7 +20,7 @@ PUT: Updates an existing resource <br>
 ``
 DELETE: Deletes a resource <br>
 ``
-<br/><br/>
+<br/>
 
 ```
 iamnormatov
