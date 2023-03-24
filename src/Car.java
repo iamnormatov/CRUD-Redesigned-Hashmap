@@ -1,6 +1,6 @@
 public class Car {
     private Integer carId;
-    private String carName;
+    private String carName; 
     private String model;
     private String color;
     private Double price;
