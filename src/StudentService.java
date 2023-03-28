@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
  
-public class StudentService {
+public class StudentService { 
     private Map<Integer, Student> studentMap;
     private Integer studentIndex;
     public StudentService (){
