@@ -1,10 +1,10 @@
 import java.util.HashMap; 
 import java.util.Map;
 
-public class BookService {
+public class BookService { 
     private Map<Integer, Book> bookMap;
     private Integer bookIndex;
-    public BookService(){
+    public BookService(){ 
         this.bookMap = new HashMap<>();
         this.bookIndex = 0;
     }
