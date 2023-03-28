@@ -3,7 +3,7 @@ public class Card {
     private String cardName;
     private Long CardNumber; 
     private Integer cardCode;
-
+ 
     public Card(String cardName, Long cardNumber, Integer cardCode) {
         this.cardName = cardName;
         CardNumber = cardNumber;
