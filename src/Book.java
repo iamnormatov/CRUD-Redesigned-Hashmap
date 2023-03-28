@@ -1,7 +1,7 @@
 public class Book { 
     private Integer bookId;
     private String bookName;
-    private String muallif;
+    private String muallif; 
     private String nashriyot;
     private String chiqarilganYil;
 
