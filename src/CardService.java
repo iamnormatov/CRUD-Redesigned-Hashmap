@@ -4,7 +4,7 @@ import java.util.Map;
 public class CardService {
     private Map<Integer, Card> cardMap;
     private Integer cardIndex;
-
+ 
     public CardService(){
         this.cardMap = new HashMap<>();
         this.cardIndex = 0;
