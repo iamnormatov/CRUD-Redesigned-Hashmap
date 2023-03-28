@@ -1,5 +1,5 @@
 import java.util.HashMap;
-import java.util.Map;
+import java.util.Map; 
  
 public class ProductService {
     private Map<Integer, Product> productMap;
