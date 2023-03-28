@@ -51,7 +51,7 @@ public class Car {
     public void setPrice(Double price) {
         this.price = price;
     }
-
+ 
     public String toCar() {
         return "Car{" +
                 "carId=" + carId +
