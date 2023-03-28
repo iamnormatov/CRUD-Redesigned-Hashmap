@@ -4,7 +4,7 @@ public class Product {
     private Double price;
     private String korhona; 
     private String saqlashMuddati;
-
+ 
     public Product(String productName, Double price, String korhona, String saqlashMuddati) {
         this.productName = productName;
         this.price = price;
