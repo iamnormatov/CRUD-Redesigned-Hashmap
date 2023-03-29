@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class UniversityService {
     private Map<Integer, University> universityMap;
-    private Integer univerIndex;
+    private Integer univerIndex; 
     public UniversityService(){
         this.universityMap = new HashMap<>();
         this.univerIndex = 0;
