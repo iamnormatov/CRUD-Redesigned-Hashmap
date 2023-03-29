@@ -3,7 +3,7 @@ import java.util.Map;
  
 public class ProductService {
     private Map<Integer, Product> productMap;
-    private Integer prductId;
+    private Integer prductId; 
     public ProductService(){
         this.productMap = new HashMap<>();
         this.prductId = 0;
