@@ -5,7 +5,7 @@ public class StudentService {
     private Map<Integer, Student> studentMap;
     private Integer studentIndex;
     public StudentService (){
-        this.studentMap = new HashMap<>();
+        this.studentMap = new HashMap<>(); 
         this.studentIndex = 0;
     }
     public String createStudent(Integer mapId, Student student){
