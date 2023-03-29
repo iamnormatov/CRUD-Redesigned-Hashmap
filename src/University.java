@@ -7,7 +7,7 @@ public class University {
 
     public University(String name, String address, String fakultet, String duration) {
         this.name = name;
-        this.address = address;
+        this.address = address; 
         this.fakultet = fakultet;
         this.duration = duration;
     }
