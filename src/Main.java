@@ -3,7 +3,7 @@ import java.util.Map;
   
 public class Main {
     public static void main(String[] args) {
-        BookService service = new BookService();
+        BookService service = new BookService(); 
         Book book = new Book("Xamsa", "Alisher Navoiy", "Azon", "2022.03.11");
 
         CarService carService = new CarService();
