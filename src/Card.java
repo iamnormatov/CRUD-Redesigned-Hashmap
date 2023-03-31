@@ -1,6 +1,6 @@
 public class Card {
     private Integer cardId;
-    private String cardName;
+    private String cardName; 
     private Long CardNumber; 
     private Integer cardCode; 
  
