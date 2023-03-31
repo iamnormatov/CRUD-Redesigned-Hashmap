@@ -1,6 +1,5 @@
 public class Product {
-    private Integer productId;
-    private String productName;
+    private Integer productId; 
     private Double price;
     private String korhona;  
     private String saqlashMuddati;
