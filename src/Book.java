@@ -1,4 +1,4 @@
-public class Book {  
+public class Book {   
     private Integer bookId; 
     private String bookName;
     private String muallif; 
