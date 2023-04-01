@@ -1,4 +1,4 @@
-public class University { 
+public class University {  
     private Integer Id;
     private String name; 
     private String address; 
